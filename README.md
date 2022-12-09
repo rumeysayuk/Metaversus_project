@@ -10,7 +10,8 @@ npm run dev
 yarn dev
 ```
 
-# Figma design used: https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?node-id=1%3A4&t=U68pCeZMWXvxXQkg-0
+# Figma design used: 
+https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?node-id=1%3A4&t=U68pCeZMWXvxXQkg-0
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
